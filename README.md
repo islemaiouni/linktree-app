@@ -1,1 +1,1 @@
-# Simple Linktree clone for my self
+# Simple Linktree clone 
